@@ -1,0 +1,7 @@
+configurasi API midtrans
+
+controller > snap.php untuk server key
+view > checkoutsnap untuk client key ; jangan lupa ganti link juga dari app.sandbox menjadi app.midtrans
+
+cd C:\Program Files\Google\Chrome\Application>chrome.exe --user-data-dir="C:\Users\lenovo\Documents\my\data" --disable-web-security
+C:\Users\lenovo\Documents\my
